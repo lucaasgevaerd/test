@@ -1,5 +1,5 @@
 .top-bg {
-    background-image: url('/src/assets/images/hero-bg.png');
+    background-image: url('/images/hero-bg.png');
     background-size: 100% 843px;
     background-repeat: no-repeat;
     background-position: center;
@@ -7,14 +7,14 @@
 }
 
 .sales-simulator-bg {
-    background-image: url('/src/assets/svgs/sales-simulator-bg.svg');
+    background-image: url('/svgs/sales-simulator-bg.svg');
     background-repeat: no-repeat;
     background-position: right;
     height: 100%;
 }
 
 .footer-bg {
-    background-image: url('/src/assets/images/footer-bg.png');
+    background-image: url('/images/footer-bg.png');
     background-size: 100% 591px;
     background-repeat: no-repeat;
     background-position: center;
